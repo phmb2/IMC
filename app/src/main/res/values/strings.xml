@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cálculo IMC</string>
+    <string name="info_label">Quer descobrir seu IMC? Insira seu peso e sua altura nos campos abaixo</string>
+    <string name="weight_label">Peso</string>
+    <string name="height_label">Altura</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="result_label">Nenhum resultado</string>
+</resources>
